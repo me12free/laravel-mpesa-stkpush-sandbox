@@ -16,7 +16,7 @@ A modern, open-source Laravel package for integrating M-Pesa STK Push (sandbox/t
 - [Usage Example](#usage-example)
 - [Callback Handling](#callback-handling)
 - [Testing](#testing)
-- [Contributing](#contributing)
+- [Contributing & Feedback](#contributing--feedback)
 - [Support](#support)
 - [Author](#author)
 - [License](#license)
@@ -96,11 +96,11 @@ vendor/bin/pest
 
 ## Contributing & Feedback
 
-Pull requests are welcome! Please see the [CONTRIBUTING](CONTRIBUTING.md) guide (or open an issue for questions).
+Pull requests are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) guide (or open an issue for questions).
 
 - **Star this repo:** If you like this package, please [star it on GitHub](https://github.com/me12free/laravel-mpesa-stkpush-sandbox/stargazers) to show your support!
 - **Rate on Packagist:** [Leave a rating or review on Packagist](https://packagist.org/packages/me12free/laravel-mpesa-stkpush-sandbox) if you find it useful.
-- **Become a contributor:** Open a pull request or issue to join the contributors list.
+- **Become a contributor:** Open a pull request or issue to join the contributors list. See [CONTRIBUTING.md](CONTRIBUTING.md) for full guidelines.
 
 ---
 
